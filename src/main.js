@@ -1,1 +1,3 @@
-//TODO: js for game
+import Phaser from './lib/phaser.js'
+
+console.dir(Phaser)
